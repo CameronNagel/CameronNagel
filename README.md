@@ -95,7 +95,7 @@
 
 ###
 
-<p align="left">- “Works on my machine.”<br>- "I connect buttons to databases for a living."</p>
+<p align="left">“Works on my machine.”<br>"I connect buttons to databases for a living."</p>
 
 ###
 
