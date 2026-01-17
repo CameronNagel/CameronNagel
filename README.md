@@ -89,6 +89,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CameronNagel/CameronNagel/output/pacman-contribution-graph.svg">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CameronNagel/CameronNagel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CameronNagel/CameronNagel/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CameronNagel/CameronNagel/output/pacman-contribution-graph.svg">
+</picture>
+
 ###
 
 <h3 align="left">Popular Phrases I use (just for laughs):</h3>
