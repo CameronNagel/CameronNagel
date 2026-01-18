@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I’m a South African full-stack software developer based in Germany, building end-to-end applications from planning and design to production. I work across the stack, connecting frontend experiences with backend logic, and occasionally arguing with my own code until it behaves. Designing interfaces, engineering logic and breaking things responsibly, with a South African accent 🇿🇦</p>
+<p align="left">Full-stack software developer based in Germany, building end-to-end applications from planning and design to production. I work across the stack, connecting frontend experiences with backend logic, and occasionally arguing with my own code until it behaves. Designing interfaces, engineering logic and breaking things responsibly, with a South African accent 🇿🇦</p>
 
 ###
 
