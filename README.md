@@ -1,7 +1,5 @@
 <h1 align="left">🍗Mahlzeit!! I'm Cameron</h1>
-```
-Digital Craftsman (Developer/Filmmaker/Creator)
-```
+<code>Truly One of a Kind</code>
 
 ###
 
