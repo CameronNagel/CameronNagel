@@ -1,5 +1,5 @@
 <h1 align="left">🍗Mahlzeit!! I'm Cameron</h1>
-<code>Truly One of a Kind</code>
+<code> AKA Monkey - Truly One of a Kind ;)</code>
 
 ###
 
